@@ -1,2 +1,2 @@
-# design-patterns
-python 设计哦是
+# Python Design Patterns 
+    python 设计模式
